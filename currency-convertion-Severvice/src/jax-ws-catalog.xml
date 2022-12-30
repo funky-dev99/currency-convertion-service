@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Patryk/Desktop/converter.asmx.wsdl" uri="wsdl/converter.asmx.wsdl"/>
+    <system systemId="http://fx.cloanto.com/webservices/CloantoCurrencyServer.asmx?WSDL" uri="wsdl/fx.cloanto.com/webservices/CloantoCurrencyServer.asmx.wsdl"/>
+</catalog>
